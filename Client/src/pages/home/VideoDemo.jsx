@@ -2,7 +2,7 @@ import React from 'react';
 
 const VideoDemo = () => {
     return (
-        <section className="py-16 bg-base-200">
+        <section id='features' className="py-16 bg-base-200 bg-gradient-to-b text-slate-200 from-gray-900 via-emerald-800 via-teal-900 via-cyan-800 via-sky-900 to-gray-900">
             <div className="max-w-5xl mx-auto px-4 text-center">
                 <h2 className="text-3xl md:text-4xl font-bold mb-6">
                     🎥 See SkillSync in Action
